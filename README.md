@@ -1,3 +1,17 @@
 # DevOps_Maven
 Learning Maven
-![image](https://user-images.githubusercontent.com/115018634/213717830-d66ef048-667f-439a-8c87-c26835bf532f.png)
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Use JavaScript to Change Text</h2>
+<p>This example writes "Hello JavaScript!" into an HTML element with id="demo":</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script> 
+
+</body>
+</html>
